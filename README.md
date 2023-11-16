@@ -19,7 +19,7 @@ Problem Definition
 
 
 
-  Methodology
+Methodology
 
 Gamification of learning follows a structured methodology to develop, ideate and implement an effective application containing appropriate algorithms and game elements. This consists of some important steps -
 
